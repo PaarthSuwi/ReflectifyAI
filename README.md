@@ -1,4 +1,4 @@
-# reflectify.ai
+# reflectifyAI
 A smart productivity app that helps students and professionals easily document projects, assignments, and work experiences in a structured, AI-assisted format.
 
 ## 🔧 Features
@@ -17,4 +17,4 @@ A smart productivity app that helps students and professionals easily document p
 ## 🚀 Getting Started
 Clone the repo:
 ```bash
-git clone https://github.com/PaarthSuwi/reflectify.ai.git
+git clone github.com/PaarthSuwi/ReflectifyAI
